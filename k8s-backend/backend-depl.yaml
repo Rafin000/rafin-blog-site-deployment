@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: backend-depl
-          image: rafin1998/rafin-blog-site:1.3
+          image: rafin1998/rafin-blog-site:1.4
           ports:
             - containerPort: 6000
           env:
